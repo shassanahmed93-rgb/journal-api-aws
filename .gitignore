@@ -1,0 +1,9 @@
+# secrets and local files - never commit these
+.env
+*.pem
+*.key
+*.tfvars
+parameters.json
+.aws/
+.DS_Store
+__pycache__/
